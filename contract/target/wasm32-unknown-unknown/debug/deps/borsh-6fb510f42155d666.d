@@ -1,0 +1,12 @@
+/home/anatoly/killmeplease/contract/target/wasm32-unknown-unknown/debug/deps/borsh-6fb510f42155d666.rmeta: /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/anatoly/killmeplease/contract/target/wasm32-unknown-unknown/debug/deps/libborsh-6fb510f42155d666.rlib: /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/anatoly/killmeplease/contract/target/wasm32-unknown-unknown/debug/deps/borsh-6fb510f42155d666.d: /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs:
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs:
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs:
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs:
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs:
+/home/anatoly/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs:
